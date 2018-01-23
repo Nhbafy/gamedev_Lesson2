@@ -11,7 +11,6 @@ namespace Lesson2
         protected String _firstName;
         protected String _secondName;
         protected double _salary;
-        
 
         public Employee(string firstName, string secondName, double salary)
         {

@@ -8,6 +8,8 @@ namespace Lesson2
 {
     class EmployeePerHourSalary : Employee
     {
+        
+
         public EmployeePerHourSalary(string firstName, string secondName, double salary) : base(firstName, secondName, salary)
         {
         }
@@ -16,5 +18,6 @@ namespace Lesson2
         {
             return salary;
         }
+         
     }
 }

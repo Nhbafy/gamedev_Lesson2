@@ -9,7 +9,7 @@ namespace Lesson2
 {
     class EmployeeFixSalary : Employee
     {
-     
+        
 
         public EmployeeFixSalary(string firstName, string secondName, double salary) : base(firstName, secondName, salary)
         {
